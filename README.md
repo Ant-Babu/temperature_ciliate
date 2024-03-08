@@ -7,7 +7,7 @@
 Ciliates, especially Tetrahymena Thermophila, play a crucial role in microbial food webs, impacting organic matter cycling. This repository contains a short report investigating temperature-driven dynamics in ciliate feeding patterns and their implications for microbial ecosystems. Methods include phagocytosis analysis and swimming speed measurement. The results show a strong correlation between temperature and vacuole formation in T. Thermophila, indicating potential shifts in microbial food webs with changing temperatures.
 
 ## Contents
-- **Article:** [Temperature-Driven Dynamics: Exploring Ciliate Feeding Patterns and Microbial Ecosystem Implications](article.pdf)
+- **Article:** [Temperature-Driven Dynamics: Exploring Ciliate Feeding Patterns and Microbial Ecosystem Implications](Temperature Influence on Ciliate Feeding Patterns - BABU & DESGRANGES.pdf)
 - **Data:** [Vacuole Data](vacuole_data.csv)
 - **Code:** [R Code for Figure Generation](code/R_code.R)
 
