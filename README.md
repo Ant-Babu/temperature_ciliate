@@ -11,14 +11,9 @@ Ciliates, especially Tetrahymena Thermophila, play a crucial role in microbial f
 - **Data:** [Vacuole Data](vacuole_data.csv)
 - **Code:** [R Code for Figure Generation](code/R_code.R)
 
-## Instructions
+## How to use
 1. Access the [article.pdf](article.pdf) for a detailed overview of the study.
 2. Explore the [vacuole_data.csv](vacuole_data.csv) file containing raw data on vacuole number, size, and ciliate speed.
-3. Utilize the [R Code](code/R_code.R) to reproduce figures presented in the article.
-
-## How to Use
-- Open [article.pdf](article.pdf) to understand the study's context and findings.
-- Examine [vacuole_data.csv](vacuole_data.csv) for raw data insights.
-- Run [R_code.R](code/R_code.R) in R or RStudio to generate figures.
+3. Run the [R Code](code/R_code.R) to reproduce figures presented in the article.
 
 Feel free to contact the authors for further inquiries.
